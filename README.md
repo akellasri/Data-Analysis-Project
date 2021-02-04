@@ -2,7 +2,7 @@
 
 ## Project Description: ##
 
-1. performed various analysis and generated insights from the sales data running SQL statements.
+1. Ingested large database file in MYSQL workbench and performed various analysis and generated insights from the sales data running SQL statements.
 2. Involved Data Cleaning process in transactions & markets table to perform ETL operations within the Power BI tool.
 3. Used Power BI for plotting various trends and showed good results.
 
